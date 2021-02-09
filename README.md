@@ -4,7 +4,7 @@
 
 <img src='Screenshot 2021-02-09 at 8.14.35 AM.png' alt='Katie Berry Software Engineer' />
 
-<a href="https://www.figma.com/proto/XPSlyclg1L5GTDKTujw5Yg/introductions?node-id=0%3A3&scaling=scale-down" target="_blank"><img src="figma logo.PNG" alt="Figma Logo" width="35" height="35"/><a> Click to see my Figma prototype presentation in full!
+<a href="https://www.figma.com/proto/XPSlyclg1L5GTDKTujw5Yg/introductions?node-id=0%3A3&scaling=scale-down" target="_blank" > <img src="figma logo.PNG" alt="Figma Logo" width="35" height="35" align="center"/> <a> Click to see my Figma prototype presentation in full!
 <!--
 *** is a repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
