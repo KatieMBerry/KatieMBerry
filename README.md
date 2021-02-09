@@ -6,7 +6,7 @@
 
 <a href="https://www.figma.com/proto/XPSlyclg1L5GTDKTujw5Yg/introductions?node-id=0%3A3&scaling=scale-down" target="_blank" > <img src="figma logo.PNG" alt="Figma Logo" width="35" height="35" align="center"/> <a> Click to see my Figma prototype presentation in full!
   
-<a href="file:///C:/Users/KatieB/Downloads/Katie%20M%20Berry%20Resume.pdf" target="_blank" > <img src="kb-dev.PNG" alt="Katie Berry Resume" width="35" height="35" align="center"/> <a> Click to see my resume!
+<a href="Katie Berry - Fullstack Developer.pdf" target="_blank" > <img src="kb-dev.PNG" alt="Katie Berry Resume" width="35" height="35" align="center"/> <a> Click to see my resume!
   
 <!--
 *** is a repository because its `README.md` (this file) appears on your GitHub profile.
