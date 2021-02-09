@@ -1,7 +1,8 @@
-# kadykat
-### Hi there 👋
+# ✨ Welcome to my Github! ✨ 
 
-✨ Welcome to my Github! ✨ 
+### Hiya! 👋 Please take a look around!
+
+
 
 <!--
 **kadykat/kadykat* is a repository because its `README.md` (this file) appears on your GitHub profile.
