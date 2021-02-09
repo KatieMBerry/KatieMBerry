@@ -4,8 +4,6 @@
 
 <img src='Screenshot 2021-02-09 at 8.14.35 AM.png' alt='Katie Berry Software Engineer' />
 
-<img src='Screenshot 2021-02-09 at 8.14.47 AM.png' alt='Katie Berry Skills' />
-
 To see my Figma prototype presentation in full, please visit https://www.figma.com/proto/XPSlyclg1L5GTDKTujw5Yg/introductions?node-id=22%3A72&scaling=scale-down.
 
 
