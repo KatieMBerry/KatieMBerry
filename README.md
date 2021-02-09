@@ -4,7 +4,7 @@
 
 <img src='Screenshot 2021-02-09 at 8.14.35 AM.png' alt='Katie Berry Software Engineer' />
 
-<img src='Screenshot 2021-02-09 at 8.07.59 AM.png' alt='Katie Berry Skills' />
+<img src='Screenshot 2021-02-09 at 8.14.47 AM.png' alt='Katie Berry Skills' />
 
 <img src='Screenshot 2021-02-09 at 8.08.50 AM.png' alt='Katie Berry Contact' />
 
