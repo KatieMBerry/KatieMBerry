@@ -8,7 +8,7 @@
 
 <img src='Screenshot 2021-02-09 at 8.08.50 AM.png' alt='Katie Berry Contact' />
 
-To see my Figma prototype presentation in full, please visit https://www.figma.com/proto/XPSlyclg1L5GTDKTujw5Yg/introductions?node-id=0%3A3&scaling=scale-down.
+To see my Figma prototype presentation in full, please visit https://www.figma.com/proto/XPSlyclg1L5GTDKTujw5Yg/introductions?node-id=22%3A72&scaling=scale-down.
 
 
 <!--
