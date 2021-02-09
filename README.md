@@ -8,7 +8,7 @@
   
 ⚡ <a href="Katie Berry - Fullstack Developer.pdf" target="_blank" > <img src="kb-dev.PNG" alt="Katie Berry Resume" width="30" height="30" align="center"/> <a> Click to see my resume! ⚡
 
-✨ [![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=KatieMBerry&show_icons=true&count_private=true&include_all_commits) align="center"](https://github.com/KatieMBerry) ✨
+✨ [![Katie's GitHub stats](https://github-readme-stats.vercel.app/api?username=KatieMBerry&show_icons=true&count_private=true&include_all_commits)](https://github.com/KatieMBerry) ✨
 
 <!--
 *** is a repository because its `README.md` (this file) appears on your GitHub profile.
