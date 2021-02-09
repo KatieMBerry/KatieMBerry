@@ -2,7 +2,7 @@
 
 ### Hiya! 👋 Please take a look around!
 
-<img src='katie-intro-banner.png' alt='Katie Berry Software Engineer' />
+<img src='Screenshot 2021-02-09 at 7.59.40 AM.png' alt='Katie Berry Software Engineer' />
 
 <!--
 **kadykat/kadykat* is a repository because its `README.md` (this file) appears on your GitHub profile.
