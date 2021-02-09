@@ -1,6 +1,4 @@
-# kadykat/kadykat
-
-## ✨ Welcome to my Github! ✨ 
+# ✨ Welcome to my Github! ✨ 
 
 ### Hiya! 👋 Please take a look around!
 
