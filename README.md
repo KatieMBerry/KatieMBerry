@@ -4,8 +4,7 @@
 
 <img src='Screenshot 2021-02-09 at 8.14.35 AM.png' alt='Katie Berry Software Engineer' />
 
-To see my Figma prototype presentation in full, please visit https://www.figma.com/proto/XPSlyclg1L5GTDKTujw5Yg/introductions?node-id=22%3A72&scaling=scale-down.
-
+To see my Figma prototype presentation in full, please visit https://www.figma.com/proto/XPSlyclg1L5GTDKTujw5Yg/introductions?node-id=0%3A3&scaling=scale-down.
 
 <!--
 *** is a repository because its `README.md` (this file) appears on your GitHub profile.
