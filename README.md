@@ -1,4 +1,6 @@
-# ✨ Welcome to my Github! ✨ 
+# kadykat/kadykat
+
+## ✨ Welcome to my Github! ✨ 
 
 ### Hiya! 👋 Please take a look around!
 
@@ -12,7 +14,7 @@ To see my Figma prototype presentation in full, please visit https://www.figma.c
 
 
 <!--
-**kadykat/kadykat* is a repository because its `README.md` (this file) appears on your GitHub profile.
+*** is a repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
