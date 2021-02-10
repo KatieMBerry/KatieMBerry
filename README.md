@@ -8,6 +8,20 @@
   
 ⚡ <a href="Katie Berry - Fullstack Developer.pdf" target="_blank" > <img src="kb-dev.PNG" alt="Katie Berry Resume" width="30" height="30" align="center"/> <a> Click to see my resume! ⚡
   
+![HTML](https://img.shields.io/badge/HTML-006466?logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-065A60?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B525B?logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-144552?logo=react&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-212F45?logo=bootstrap&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Nodejs-312244?logo=Node.js&logoColor=white)
+![Chartjs](https://img.shields.io/badge/Chartjs-4B2555?logo=Chart.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-4D194D?logo=Express&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-5C1E5C?logo=jest&logoColor=white)
+![Supertest](https://img.shields.io/badge/Supertest-7400B8?logo=supertest&logoColor=white)
+![QUnit](https://img.shields.io/badge/QUnit-6930C3?logo=qunit&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-5E60CE?logo=postgresql&logoColor=white)
+  
+
 ![Netlify](https://img.shields.io/badge/Netlify-48BFE3?logo=netlify&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-56CFE1?logo=github&logoColor=white)	
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-64DFDF?logo=Visual%20Studio%20Code&logoColor=white)
@@ -21,6 +35,7 @@
   </a> ✨
 
 ✨ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatieMBerry&theme=highcontrast&show_icons=true&layout=compact" alt="Language Stats" /> ✨
+
 <!--
 *** is a repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
