@@ -33,11 +33,11 @@
 </div>
 
 <p align="center">
- <a href="https://www.figma.com/proto/XPSlyclg1L5GTDKTujw5Yg/introductions?node-id=0%3A3&scaling=scale-down" target="_blank" > <img src="figma logo.PNG" alt="Figma Logo" width="35" height="35"/>Click to see my Figma prototype presentation in full!<a> ⚡
+ <a href="https://www.figma.com/proto/XPSlyclg1L5GTDKTujw5Yg/introductions?node-id=0%3A3&scaling=scale-down" target="_blank" color="teal"> <img src="figma logo.PNG" alt="Figma Logo" width="35" height="35"/>Click to see my Figma prototype presentation in full!<a> ⚡
 </p>
 
 <p align="center">
- <a href="Katie Berry - Fullstack Developer.pdf" target="_blank" > <img src="kb-dev.PNG" alt="Katie Berry Resume" width="30" height="30"/>Click to see my resume! <a> ⚡
+ <a href="Katie Berry - Fullstack Developer.pdf" target="_blank" color="teal"> <img src="kb-dev.PNG" alt="Katie Berry Resume" width="30" height="30"/>Click to see my resume! <a> ⚡
 </p>
 
 <p align="center">
