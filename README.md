@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
- <a href="Katie Berry - Fullstack Developer.pdf" target="_blank" style="teal"> <img src="kb-dev.PNG" alt="Katie Berry Resume" width="30" height="30"/> Click to see my resume! <a> ⚡
+ <a href="Katie Berry - Fullstack Developer.pdf" target="_blank" style="text-decoration: 'none'" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'"> <img src="kb-dev.PNG" alt="Katie Berry Resume" width="30" height="30"/> Click to see my resume! <a> ⚡
 </p>
 
 <p align="center">
