@@ -41,13 +41,13 @@
 </p>
 
 <p align="center">
-✨ <a href="https://github.com/KatieMBerry/KatieMBerry">
-  <img src="https://github-readme-stats.vercel.app/api?username=KatieMBerry&show_icons=true&count_private=true&include_all_commits&hide=issues&theme=highcontrast" alt="Github Stats"/></a> ✨
+ <a href="https://github.com/KatieMBerry/KatieMBerry">
+  <img src="https://github-readme-stats.vercel.app/api?username=KatieMBerry&show_icons=true&count_private=true&include_all_commits&hide=issues&theme=highcontrast" alt="Github Stats"/></a> 
   
 </p>
 
 <p align="center">
-✨ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatieMBerry&theme=highcontrast&show_icons=true&layout=compact" alt="Language Stats" /> ✨
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatieMBerry&theme=highcontrast&show_icons=true&layout=compact" alt="Language Stats" /> 
 </p>
 <!--
 *** is a repository because its `README.md` (this file) appears on your GitHub profile.
