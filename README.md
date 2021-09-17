@@ -50,9 +50,8 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KatieMBerry&theme=highcontrast&show_icons=true&layout=compact" alt="Language Stats" /> 
 </p>
    
-<p align="center">
 ![Katie Codes](https://user-images.githubusercontent.com/59746300/133863846-9ca50cc5-0ba6-4774-a4ca-3005007ac6b4.gif)
-</p>
+
 <!--
 *** is a repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
